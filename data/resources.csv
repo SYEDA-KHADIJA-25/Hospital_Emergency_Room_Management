@@ -1,6 +1,0 @@
-ID,NAME,TYPE,STATUS
-R101,Emergency Room 1,Treatment Room,In Use
-R102,Emergency Room 2,Treatment Room,Available
-R103,ICU Bed 1,ICU,Available
-R104,ICU Bed 2,ICU,In Use
-R105,Operation Theater 1,OT,Available
